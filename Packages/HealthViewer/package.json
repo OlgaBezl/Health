@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.healthviewer",
+  "version": "1.0.0",
+  "displayName": "Health Viewer",
+  "description": "Health Viewer custom package",
+  "unity": "2022.3",
+  "keywords": [
+    "health",
+    "view"
+  ],
+  "author": {
+    "name": "OlgaBezl"
+  }
+}
